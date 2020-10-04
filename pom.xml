@@ -71,9 +71,7 @@
                 <artifactId>appengine-maven-plugin</artifactId>
                 <version>2.2.0</version>
                 <configuration>
-                    <deploy.projectId>loyal-coast-291504</deploy.projectId>
                     <deploy.version>1</deploy.version>
-                    <deploy.key>AIzaSyBVoUu5U3zv-IZ--Frp5vnlRjS-a3-qInY</deploy.key>
                 </configuration>
             </plugin>
         </plugins>
